@@ -1,2 +1,2 @@
-# M1_ProjectGoal_App
+# M1_ProjectGoal_A
 mini project
