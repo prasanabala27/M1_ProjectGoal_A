@@ -1,4 +1,4 @@
-# Detail requirements
+# Detail Requirements
 ## High Level Requirements:
  ID | Description | 
 ----- | ------------|
