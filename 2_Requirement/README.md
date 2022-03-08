@@ -18,18 +18,5 @@ LLR1| User - name, password   |
 LLR2| Movie name  | 
 LLR3| Show details|
 LLR4| Ticket details|
-# SWOT ANALYSIS
 
-## 4W's and 1'H
-
-## Who
- Everyone can use the Movie ticket booking system who want to buy products.
-## What
- Made for book the ticket and cancel the ticket.
-## Where
- User can access this application using any java compiler.
-## Why
- The system helps to book the movie tickets in online. 
-## How
- Implementation is done using java language.
 * **`Book Ticket`-**
