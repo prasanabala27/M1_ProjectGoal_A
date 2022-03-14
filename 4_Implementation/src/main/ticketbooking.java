@@ -394,13 +394,14 @@ public class ticketbooking{
         
     
             int ch;
+	     System.out.println("********************WELCOME TO MOVIE TICKET BOOKING APPLICATION********************");
+                registe a = new registe();
+                a.reg();
            
             do
             {
                 
-                System.out.println("********************WELCOME TO MOVIE TICKET BOOKING APPLICATION********************");
-                registe a = new registe();
-                a.reg();
+                
                 System.out.println("\t\t\t\tMAINMENU");
 
                 System.out.println("\t\t\t\t1.USER INTERFACE");
