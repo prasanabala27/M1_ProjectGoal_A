@@ -1,4 +1,3 @@
-mini project
 
 # code quality score
 
